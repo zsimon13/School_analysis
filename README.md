@@ -1,14 +1,17 @@
 # School District Analysis
 
 ## Overview
-Maria, a school district employee, was working on analysis to understand trends among high schools in the district. After completeing the inintail analyis, it was determined that the 9th grade calss at Thomas High Schoool had unrealiable data due to potential academic dishonesty. In order to make sure that the results of the analyis were not skewed, we were asked to rerun the analysis reaplacing this group of student grades with null values and determine how different it was from the initial analysis.
+Maria, a school district employee, was working on analysis to understand trends among high schools in the district. After completeing the inintail analyis, it was determined that the 9th grade calss at Thomas High Schoool had unrealiable data due to potential academic dishonesty. In order to make sure that the results of the analyis were not skewed, we were asked to rerun the analysis reaplacing Tyler Highschool's 9th grade class math and reading grades with null values and determine how different it was from the initial analysis.
 
 
 ## Results
 
-Using bulleted lists and images of DataFrames as support, address the following questions.
-
-How is the district summary affected?
+As you can see in the figures below, the school district summary did in fact change when Tyler High Schools 9th greade class scores were removed. However the change was not substantial. The "School Summary Original" contains all the data from the original analysis, where the "District School Summary Updated" figure takes the null values into account. The changes are as follows:
+- Average Math Score: Dropped by 0.1 points
+- Average Reading Score: No change from original data
+- Percentage Passing Math: Dropped by 0.2%%
+- Percentage Passing Reading: Dropped by 0.3%
+- Percentage Passing Overall: Dropped by 0.1%
 ### District Summary Original
 ![district summary OG](https://user-images.githubusercontent.com/102814578/168504458-612f780d-4933-4fc6-b6ba-f9a8256a5651.png)
 ### District Summary Updataed
@@ -16,9 +19,9 @@ How is the district summary affected?
 
 How is the school summary affected?
 ### School Summary Original
-![School Summary OG](https://user-images.githubusercontent.com/102814578/168505198-5d5899e0-e7ae-4904-b54c-6727457f9597.png)
+![School Summary OG](https://user-images.githubusercontent.com/102814578/168927963-8cccf86e-188c-4526-a06b-9af37e9bfc60.png)
 ### School Summary Updated
-![School Summary updated](https://user-images.githubusercontent.com/102814578/168505205-1523e47f-5039-4b8b-bb87-eefd44bc7baf.png)
+![School Summary updated](https://user-images.githubusercontent.com/102814578/168927972-3ea09331-9db6-40db-9498-0a9dc94a3532.png)
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
