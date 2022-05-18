@@ -34,7 +34,7 @@ Unlike the District summary, the School Summary did show a substantial change in
 ### School Performance
 Replacing the scores for the Thomas High School 9th grade class did not change their performance compared to other schools. Thomas High School's overall passing percentage only dropped 0.3% and it remained the 2nd highest performing school over all. The top 5 performing schools based on overall passing percentage are shown below. "Top Performing Schools Original" shows the data before scores were replaced, "Top Performing Schools Updated" shows the data after the scores were replaced.
 #### Top Performing Schools Original
-![top og](https://user-images.githubusercontent.com/102814578/168945680-22ae6b61-691c-4b4e-8b3d-729747e726b7.png)#### Top Perfomring Schools Updated
+![top og](https://user-images.githubusercontent.com/102814578/168945680-22ae6b61-691c-4b4e-8b3d-729747e726b7.png)
 #### Top Performing Schools Updated
 ![top updated](https://user-images.githubusercontent.com/102814578/168945691-aef962a4-6e8e-424f-b1f0-dab7d73defb2.png)
 
