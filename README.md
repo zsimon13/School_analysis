@@ -19,7 +19,7 @@ As you can see in the figures below, the school district summary did in fact cha
 ![district summary updated](https://user-images.githubusercontent.com/102814578/168504321-3d9a0358-abd7-4998-9055-2eac11a331dd.png)
 
 ### School Summary
-Unlike the District summary, the School Summary did show a substantial change in the "% Passing Reading" category after removing the Thomas High Schools 9th grade class grades. The rest of the categories showed little to no change. The changes to Thomas High School's metrics are as follows:
+Unlike the District summary, the School Summary did show a substantial change in the "% Passing Reading" category after replacing the Thomas High Schools 9th grade class grades. The rest of the categories showed little to no change. The changes to Thomas High School's metrics are as follows:
 - Average Math Score: *Dropped by 0.1 points*
 - Average Reading Score: *No change*
 - Percentage Passing Math: *Dropped 0.1%*
@@ -39,7 +39,7 @@ Replacing the scores for the Thomas High School 9th grade class did not change t
 ![top updated](https://user-images.githubusercontent.com/102814578/168945691-aef962a4-6e8e-424f-b1f0-dab7d73defb2.png)
 
 
-### Effect of Removing Scores
+### Effect of Replacing Scores
 #### Scores by Grade
 The scores by grade were not affected by the replaced of grades for the Thomas High School 9th Grade class. This is because the script was written to only replace those particular grades, and not touch the grades of any other students from any other schools. As you can see below, only the 9th Graders at Thomas High School recieved a "nan" (not a number) value in the analysis.
 #### Math by grade
